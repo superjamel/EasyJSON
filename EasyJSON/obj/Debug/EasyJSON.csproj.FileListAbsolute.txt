@@ -1,0 +1,4 @@
+/Users/jameldelafuente/Projects/EasyJSON/EasyJSON/bin/Debug/EasyJSON.dll
+/Users/jameldelafuente/Projects/EasyJSON/EasyJSON/bin/Debug/EasyJSON.dll.mdb
+/Users/jameldelafuente/Projects/EasyJSON/EasyJSON/obj/Debug/EasyJSON.dll
+/Users/jameldelafuente/Projects/EasyJSON/EasyJSON/obj/Debug/EasyJSON.dll.mdb
